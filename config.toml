@@ -1,0 +1,4 @@
+baseURL = 'https://montaj-pavele.recomand.app/'
+languageCode = 'ro-ro'
+title = 'Montaj Pavele'
+theme = 'ananke'
